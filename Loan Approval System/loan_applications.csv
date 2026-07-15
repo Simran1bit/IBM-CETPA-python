@@ -1,0 +1,4 @@
+Applicant Name,Age,Gender,Loan Type,Loan Amount,Loan Tenure,Monthly Salary,Credit Score,Credit Rating,Monthly EMIs,Loan Category,Interest Rate,Loan Status,Rejection Reason
+simran,19,F,Personal,50000.0,1,30000.0,700,Good,3000.0,Bronze,9,Loan Rejected,Applicant age must be between 21 and 60 years.
+sim,30,F,Business,500000.0,3,78000.0,780,Excellent,8000.0,Bronze,8,Loan Approved,
+tanvi,22,F,Business,200000.0,10,40000.0,720,Good,10000.0,Bronze,9,Loan Rejected,"Monthly salary must be at least ₹60,000."
